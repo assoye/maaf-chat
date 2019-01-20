@@ -1,6 +1,6 @@
 # MAAF Chat
 
-This is a school project at [HETIC](https://www.hetic.net/)
+This is a school project at [HETIC](https://www.hetic.net/).- For two weeks I worked as a team on the problem : How to provide a constant and individualized accompaniment in case of sinitre ?
 
 Visit site [here](https://maaf.edhbr.fr)!
 

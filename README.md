@@ -1,6 +1,12 @@
-This is a school project at HETIC - How to provide a constant and individualized support during a disaster
+# MAAF Chat
 
-Build Setup
+This is a school project at [HETIC](https://www.hetic.net/)
+
+Visit site [here](https://maaf.edhbr.fr)!
+
+## Build Setup
+
+```bash
 # install dependencies
 $ yarn install
 
@@ -13,4 +19,6 @@ $ yarn start
 
 # generate static project
 $ yarn run generate
-For detailed explanation on how things work, checkout Nuxt.js docs.
+```
+
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
